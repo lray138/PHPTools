@@ -1,16 +1,15 @@
 {
     "name": "lray138/php-tools",
     "description": "PHP Tools for Web Development",
-    "type": "project",
-    "minimum-stability": "dev",
+    "type": "package",
     "require": {
         "php": ">=5.4.0"
     },
+    "license": "mit",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "lray138\\PHPTools\\": "src/"
         }
-    },
-    "version": "0.1.0",
-    "license": "MIT" 
+    }
 }
