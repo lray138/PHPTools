@@ -11,10 +11,6 @@
             "lray138\\PHPTools\\": "src/"
         }
     },
-    {
-        "version": "0.1.0" 
-    },
-    {
-        "license": "MIT" 
-    }
+    "version": "0.1.0",
+    "license": "MIT" 
 }
