@@ -6,7 +6,7 @@
         "php": ">=5.4.0"
     },
     "license": "mit",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "lray138\\PHPTools\\": "src/"
