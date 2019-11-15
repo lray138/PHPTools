@@ -11,5 +11,6 @@
         "psr-4": {
             "lray138\\PHPTools\\": "src/"
         }
-    }
+    },
+    "stability": "stable"
 }
