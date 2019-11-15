@@ -2,6 +2,7 @@
     "name": "lray138/php-tools",
     "description": "PHP Tools for Web Development",
     "type": "project",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4.0"
     },
